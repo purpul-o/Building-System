@@ -3,7 +3,7 @@
 ## Overview
 Basic building system, with R for rotation, mouseButton1 for placement.
 
-## Installation
+## Initialization
 1. Download "RBXM.rbxm"
 2. Drag "RBXM.rbxm" into Roblox Studio
 3. Put the content of each folder in the initialization folder to the service mentioned in the folder name.
