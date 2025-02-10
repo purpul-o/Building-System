@@ -1,7 +1,7 @@
 # Building System
 
 ## Overview
-Basic building system, with R for rotation, mouseButton1 for placement.
+Basic building system, with R for rotation, E for placement.
 
 ## Installation
 1. Download "RBXM.rbxm"
