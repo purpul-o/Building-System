@@ -1,5 +1,8 @@
 # Building System
 
+## Source
+You can access the source code by either installing the RBXM.rbxm file.
+
 ## Overview
 Basic building system, with R for rotation, E for placement.
 
